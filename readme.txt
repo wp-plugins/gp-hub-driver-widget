@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Riseoflex88
+Contributors: riseoflex88
 Tags: f1, formula one, motorsports, widgets, racing
 Requires at least: 3.8.1
 Tested up to: 4
