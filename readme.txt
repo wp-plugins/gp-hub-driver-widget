@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: RiseOfLex88
-Tags: f1, formula one, motorsports, widgets
+Contributors: Riseoflex88
+Tags: f1, formula one, motorsports, widgets, racing
 Requires at least: 3.8.1
 Tested up to: 4
 Stable tag: 0.4
