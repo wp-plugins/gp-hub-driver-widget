@@ -3,7 +3,7 @@ Contributors: RiseOfLex88
 Tags: f1, formula one, motorsports, widgets
 Requires at least: 3.8.1
 Tested up to: 4
-Stable tag: 0.2
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,7 @@ It's a responsive display so it should fit most website sidebars.
 1. Upload `gphub-driver-widget.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Admin > Appearance > Widgets and add the 'GP Hub: Driver Widget' to your sidebar of choice. 
-4. Select a driver and set the clickthrough if you want to!
+4. Select a driver and set the click through if you want to link to the detailed stats page on GP Hub
 
 == Frequently Asked Questions ==
 
@@ -32,10 +32,14 @@ Not yet, but if you're really keen to show one, get in touch and I'll see what I
 
 == Screenshots ==
 
-1. Example of the admin view for the widget
-2. This is the second screen shot
+1. Example of the widget placed in the sidebar 
+2. Closeup of complete widget display
+3. Example of the admin view for the widget
 
 == Changelog ==
+
+= 0.4 =
+- Added new files for screenshots and loaded complete version to wp plugin repository
 
 = 0.1 =
 Inital version

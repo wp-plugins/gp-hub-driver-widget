@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: [GP Hub] Driver Widget
+Plugin Name: GP Hub - Driver Widget
 Plugin URI: http://www.gp-hub.com/
 Description: Show a driver profile in your sidebar
 Author: Alex Dovey
-Version: 0.3
+Version: 0.4
 */
 
 define('GPHUB_DW_DIR', plugins_url('', __FILE__));
