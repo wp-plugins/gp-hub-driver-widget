@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: riseoflex88
+Contributors: RiseOfLex88
 Tags: f1, formula one, motorsports, widgets, racing
 Requires at least: 3.8.1
-Tested up to: 4
-Stable tag: 0.4
+Tested up to: 4.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,10 @@ It's a responsive display so it should fit most website sidebars.
 
 Not yet, but if you're really keen to show one, get in touch and I'll see what I can do. 
 
+= Can I show other drivers from other Series =
+
+Not yet, but GP Hub covers Indycar, GP2, GP3, FR3.5 and Formule 3 so if you're keen for someone from there I'll develop the plugin further.
+
 == Screenshots ==
 
 1. Example of the widget placed in the sidebar 
@@ -37,6 +41,10 @@ Not yet, but if you're really keen to show one, get in touch and I'll see what I
 3. Example of the admin view for the widget
 
 == Changelog ==
+
+= 1.0 =
+- Updated for the 2015 F1 season with new drivers
+- Reciever updated with tweaked styling 
 
 = 0.4 =
 - Added new files for screenshots and loaded complete version to wp plugin repository

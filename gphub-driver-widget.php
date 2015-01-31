@@ -127,39 +127,42 @@ function gphub419231_get_driver_options(){
 
 	$driver_options = array();
 
-	$driver_options[203] = 'Alonso';
+	// Ferrari
 	$driver_options[238] = 'Raikkonen';
-
-	$driver_options[237] = 'Ricciardo';
 	$driver_options[210] = 'Vettel';
 
+	// Red Bull
+	$driver_options[237] = 'Ricciardo';
+	$driver_options[8681] = 'Kvyat';
+
+	// Williams
 	$driver_options[225] = 'Massa';
 	$driver_options[347] = 'Bottas';
 
+	// Mercedes
 	$driver_options[202] = 'Hamilton';
 	$driver_options[223] = 'Rosberg';
 
+	// Force India
 	$driver_options[228] = 'Hulkenberg';
 	$driver_options[226] = 'Perez';
 
-	$driver_options[612] = 'Sutil';
-	$driver_options[345] = 'Gutierrez';
+	// Sauber
+	$driver_options[4328] = 'Ericsson';
+	$driver_options[4332] = 'Nasr';	
 
+	// McLaren
+	$driver_options[203] = 'Alonso';
 	$driver_options[222] = 'Button';
-	$driver_options[1310] = 'Magnussen';
 
+	// Lotus
 	$driver_options[224] = 'Grosjean';
 	$driver_options[204] = 'Maldonado';
 
-	$driver_options[231] = 'Vergne';
-	$driver_options[8681] = 'Kvyat';
-
-	$driver_options[227] = 'Kobayashi';
-	$driver_options[4328] = 'Ericsson';
-	$driver_options[28222] = 'Lotterer';
-
-	$driver_options[342] = 'Bianchi';
-	$driver_options[356] = 'Chilton';
+	// Toro Rosso
+	$driver_options[24629] = 'Verstappen';
+	$driver_options[8679] = 'Sainz';
+	
 
 	asort($driver_options);
 
