@@ -52,10 +52,12 @@ Raise it in the support forum here: https://wordpress.org/support/plugin/gp-hub-
 
 == Screenshots ==
 
-1. Example of the driver widget placed in the sidebar 
-2. Closeup of complete widget display
+1. F1 Driver standings on the championship widget
+2. Formula E Team standings on the championship widget
 3. Example of the admin view for the widget
 4. Example of the Championship overview widget placed in the sidebar 
+5. Example of the driver widget placed in the sidebar 
+6. Closeup of complete widget display
 
 == Changelog ==
 = 1.1 =
