@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: RiseOfLex88
+Contributors: Riseoflex88
 Tags: f1, indy, indycar, formula one, motorsports, widgets, racing, formula e, gp2, gp3, formula renault, motorsport, motor sport
 Requires at least: 3.8.1
 Tested up to: 4.1.1
