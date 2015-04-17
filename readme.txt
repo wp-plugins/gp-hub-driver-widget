@@ -60,6 +60,11 @@ Raise it in the support forum here: https://wordpress.org/support/plugin/gp-hub-
 6. Closeup of complete widget display
 
 == Changelog ==
+= 1.2 =
+- Some styling tweaks for better mobile responsiveness.
+- Randomly generated id for the gp hub logo so it can't be removed so easily (Surely that's fair, right?)
+- Fixed bug with Roberto Merhi not showing correctly.
+
 = 1.1 =
 - Added a new widget to show a combo box featuring the driver and team standings in tab form
 - Updated with the newest drivers for 2015 e.g. Merhi, Stevens etc. 

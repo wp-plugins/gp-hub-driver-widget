@@ -71,9 +71,9 @@ class gphub419231_standings_widget extends WP_Widget {
 		$gphub_logo = '<img style="width: 75px;" src="'.GPHUB_DW_DIR.'/img/gphub-logo-colored.png" alt="The GP Hub WordPress Plugin"  />';
 		
 		if($clickthrough == 'yes')
-			$gphub_logo = '<a style="text-align: right; display: block; margin: 3px 0px 10px;" href="http://www.gp-hub.com/" target="_parent" id="gphub-logo" title="">'.$gphub_logo.'</a>';
+			$gphub_logo = '<a style="text-align: right; display: block !important; margin: 3px 0px 10px;" href="http://www.gp-hub.com/" target="_parent" title="">'.$gphub_logo.'</a>';
 		else
-			$gphub_logo = '<div style="text-align: right; display: block; margin: 3px 0px 10px;" id="gphub-logo">'.$gphub_logo.'</div>';
+			$gphub_logo = '<div style="text-align: right; display: block !important; margin: 3px 0px 10px;">'.$gphub_logo.'</div>';
 
 
 		/*
