@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Riseoflex88
+Contributors: RiseOfLex88
 Tags: f1, indy, indycar, formula one, motorsports, widgets, racing, formula e, gp2, gp3, formula renault, motorsport, motor sport
 Requires at least: 3.8.1
 Tested up to: 4.1.1
@@ -52,19 +52,12 @@ Raise it in the support forum here: https://wordpress.org/support/plugin/gp-hub-
 
 == Screenshots ==
 
-1. F1 Driver standings on the championship widget
-2. Formula E Team standings on the championship widget
+1. Example of the driver widget placed in the sidebar 
+2. Closeup of complete widget display
 3. Example of the admin view for the widget
 4. Example of the Championship overview widget placed in the sidebar 
-5. Example of the driver widget placed in the sidebar 
-6. Closeup of complete widget display
 
 == Changelog ==
-= 1.2 =
-- Some styling tweaks for better mobile responsiveness.
-- Randomly generated id for the gp hub logo so it can't be removed so easily (Surely that's fair, right?)
-- Fixed bug with Roberto Merhi not showing correctly.
-
 = 1.1 =
 - Added a new widget to show a combo box featuring the driver and team standings in tab form
 - Updated with the newest drivers for 2015 e.g. Merhi, Stevens etc. 
